@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="1210" height="935" viewBox="0 0 1210 935" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_1"><path d="M0,0H1210V935H0Z"/></clipPath>
+<clipPath id="c0"><path d="M0,935V0H1210V935Z"/></clipPath>
+<clipPath id="c1"><path d="M89.8,123.4v-35H267.7v35Z"/></clipPath>
+<clipPath id="c2"><path d="M268.6,123.4v-35H435.5v35Z"/></clipPath>
+<clipPath id="c3"><path d="M436.2,123.4v-35h167v35Z"/></clipPath>
+<clipPath id="c4"><path d="M604,123.4v-35H771v35Z"/></clipPath>
+<clipPath id="c5"><path d="M771.8,123.4v-35h167v35Z"/></clipPath>
+<clipPath id="c6"><path d="M939.7,123.4v-35h167.1v35Z"/></clipPath>
+<clipPath id="c7"><path d="M89.8,159.3V124.1H267.7v35.2Z"/></clipPath>
+<clipPath id="c8"><path d="M89.8,358.7V160.1H267.7V358.7Z"/></clipPath>
+<clipPath id="c9"><path d="M268.6,358.7V160.1H435.5V358.7Z"/></clipPath>
+<clipPath id="ca"><path d="M436.2,358.7V160.1h167V358.7Z"/></clipPath>
+<clipPath id="cb"><path d="M604,358.7V160.1H771V358.7Z"/></clipPath>
+<clipPath id="cc"><path d="M771.8,475.5V160.1H947.2V475.5Z"/></clipPath>
+<clipPath id="cd"><path d="M948,358.7V160.1h158.8V358.7Z"/></clipPath>
+<clipPath id="ce"><path d="M89.8,475.5V359.4H267.7V475.5Z"/></clipPath>
+<clipPath id="cf"><path d="M268.6,475.5V359.4H435.5V475.5Z"/></clipPath>
+<clipPath id="cg"><path d="M436.2,475.5V359.4h167V475.5Z"/></clipPath>
+<clipPath id="ch"><path d="M604,475.5V359.4H771V475.5Z"/></clipPath>
+<clipPath id="ci"><path d="M948,475.5V359.4h158.8V475.5Z"/></clipPath>
+<clipPath id="cj"><path d="M89.8,511.4V476.2H267.7v35.2Z"/></clipPath>
+<clipPath id="ck"><path d="M268.6,511.4V476.2H435.5v35.2Z"/></clipPath>
+<clipPath id="cl"><path d="M436.2,511.4V476.2h167v35.2Z"/></clipPath>
+<clipPath id="cm"><path d="M604,511.4V476.2H771v35.2Z"/></clipPath>
+<clipPath id="cn"><path d="M771.8,511.4V476.2H947.2v35.2Z"/></clipPath>
+<clipPath id="co"><path d="M948,511.4V476.2h158.8v35.2Z"/></clipPath>
+<clipPath id="cp"><path d="M89.8,677.2v-165H267.7v165Z"/></clipPath>
+<clipPath id="cq"><path d="M268.6,677.2v-165H435.5v165Z"/></clipPath>
+<clipPath id="cr"><path d="M436.2,677.2v-165h167v165Z"/></clipPath>
+<clipPath id="cs"><path d="M604,677.2v-165H771v165Z"/></clipPath>
+<clipPath id="ct"><path d="M771.8,677.2v-165H947.2v165Z"/></clipPath>
+<clipPath id="cu"><path d="M948,677.2v-165h158.8v165Z"/></clipPath>
+<clipPath id="cv"><path d="M89.8,825.7V678.1H267.7V825.7Z"/></clipPath>
+<clipPath id="cw"><path d="M268.6,825.7V678.1H435.5V825.7Z"/></clipPath>
+<clipPath id="cx"><path d="M436.2,825.7V678.1h167V825.7Z"/></clipPath>
+<clipPath id="cy"><path d="M604,825.7V678.1H771V825.7Z"/></clipPath>
+<clipPath id="cz"><path d="M771.8,825.7V678.1H947.2V825.7Z"/></clipPath>
+<clipPath id="c10"><path d="M948,825.7V678.1h158.8V825.7Z"/></clipPath>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1{
+font-size: 21.45px;
+font-family: sub_TimesNewRoman-Bold_lfb;
+fill: #000;
+}
+.s2{
+font-size: 21.45px;
+font-family: TimesNewRoman-Bold_6m;
+fill: #000;
+}
+.s3{
+font-size: 15.22px;
+font-family: sub_TimesNewRoman-Bold_lfb;
+fill: #000;
+}
+.s4{
+font-size: 15.22px;
+font-family: sub_TimesNewRoman_lfr;
+fill: #000;
+}
+.s5{
+font-size: 15.22px;
+font-family: TimesNewRoman_6s;
+fill: #000;
+}
+.s6{
+font-size: 15.22px;
+font-family: sub_TimesNewRoman-Bold_lfb;
+fill: #000008;
+}
+.s7{
+font-size: 13.75px;
+font-family: sub_TimesNewRoman_lfr;
+fill: #000;
+}
+.s8{
+font-size: 13.75px;
+font-family: TimesNewRoman_6s;
+fill: #000;
+}
+.s9{
+font-size: 16.87px;
+font-family: Calibri_6q;
+fill: #000;
+}
+
+.g0{
+fill: #FF9;
+}
+.g1{
+fill: #000;
+}
+.g2{
+fill: #FFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,935
+L1210,935
+L1210,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<g clip-path="url(#c_1)">
+<g clip-path="url(#c0)">
+<path fill-rule="evenodd" d="M0,935.2H1210.2V0H0V935.2Z" class="g0"/>
+<text x="314.6" y="33.6" dx="0,-.1,0,0,-.1,.1,0,0,-.1,0,0,0,-.1,0,.1,0,-.1,0,-.1,0,-.1,-.1,-.1,.1,-.1,.1,0,0,-.1,0,-.1,0,0,0,-.1,-.1,0,-.1,.1,-.1,-.1,0,0,-.2,-.1,0" class="s1">DETAILED SESSION PLANNING- ATAL TECHNICAL FDP </text>
+<text x="440.1" y="58.1" dx="0,-.1,0,-.1,0,0,0,-.2,0,.1,-.1,0,-.1,-.1,-.1,.2,0,-.1,0,0,0,0,.1,-.2,.1,.1,0,-.3,.1,-.1,0" class="s1">ATAL BASIC FDP- A Typical Flow </text>
+<text x="478.8" y="82.7" dx="0,0,0,0,-.1,.1,0,0,0,-.2,.1,0,-.1,.1,-.2,.1,-.3" class="s1">Offline (9:30 am </text>
+<text x="633.7" y="82.7" class="s2">– </text>
+<text x="649.8" y="82.7" dx="0,.1,0,.1,.1,0,0,-.3,.1" class="s1">5:30 pm) </text>
+</g>
+<g clip-path="url(#c1)">
+<text x="159.7" y="102.5" dx="0,0,.1,.1,0,.1" class="s3">Day 1 </text>
+<text x="139.2" y="119.9" dx="0,0,.1,.1,0,-.1,.1,0,-.1,.1,.1,.1,0" class="s3">(30.10.2023) </text>
+</g>
+<g clip-path="url(#c2)">
+<text x="333" y="102.5" dx="0,0,.1,.1,0,0" class="s3">Day 2 </text>
+<text x="312.4" y="119.9" dx="0,0,.1,.1,0,-.1,.1,0,-.1,.1,.1,.1" class="s3">(31.10.2023) </text>
+</g>
+<g clip-path="url(#c3)">
+<text x="500.8" y="102.5" dx="0,0,.1,.1,0,0" class="s3">Day 3 </text>
+<text x="484.1" y="119.9" dx="0,0,.1,0,.1,-.1,0,.1,-.1,.1,.1" class="s3">(1.11.2023) </text>
+</g>
+<g clip-path="url(#c4)">
+<text x="668.5" y="102.5" dx="0,0,.1,.1,0,0" class="s3">Day 4 </text>
+<text x="651.9" y="119.9" dx="0,0,.1,0,.1,-.1,0,.1,-.1,.1,.1" class="s3">(2.11.2023) </text>
+</g>
+<g clip-path="url(#c5)">
+<text x="836.3" y="102.5" dx="0,0,.1,.1,0,0" class="s3">Day 5 </text>
+<text x="819.6" y="119.9" dx="0,0,.1,0,.1,-.1,0,.1,-.1,.1,.1" class="s3">(3.11.2023) </text>
+</g>
+<g clip-path="url(#c6)">
+<text x="1004.1" y="102.5" dx="0,0,.1,.1,0,0" class="s3">Day 6 </text>
+<text x="987.4" y="119.9" dx="0,0,.1,0,.1,-.1,0,.1,-.1,.1,.1" class="s3">(4.11.2023) </text>
+</g>
+<path fill-rule="evenodd" d="M88.9,88.2h.8v-.8h-.8v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M88.9,88.2h.8v-.8h-.8v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M89.7,88.2H267.9v-.8H89.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,88.2h.7v-.8h-.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M268.6,88.2H435.5v-.8H268.6v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,88.2h.7v-.8h-.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M436.2,88.2h167v-.8h-167v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,88.2h.8v-.8h-.8v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M604,88.2H771v-.8H604v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,88.2h.8v-.8H771v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M771.8,88.2H939v-.8H771.8v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M939,88.2h.7v-.8H939v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M939.7,88.2h167.1v-.8H939.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,88.2h.7v-.8h-.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,88.2h.7v-.8h-.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M88.9,123.4h.8V88.2h-.8v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,123.4h.7V88.2h-.7v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,123.4h.7V88.2h-.7v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,123.4h.8V88.2h-.8v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,123.4h.8V88.2H771v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M939,123.4h.7V88.2H939v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,123.4h.7V88.2h-.7v35.2Z" class="g1"/>
+<g clip-path="url(#c7)">
+<text x="143.8" y="137.9" dx="0,.1,0,.1,.1" class="s4">9:00 </text>
+<text x="174.9" y="137.9" class="s5">– </text>
+<text x="186.3" y="137.9" dx="0,.1,0,.1,-.1" class="s4">9:30 </text>
+</g>
+<path fill-rule="evenodd" d="M135.3,159.2h86.6V141.4H135.3v17.8Z" class="g2"/>
+<text clip-path="url(#c7)" x="135.3" y="155.9" dx="0,0,0,0,0,0,0,0,.1,0,0,.1" class="s6">Inauguration </text>
+<path fill-rule="evenodd" d="M88.9,124.1h.8v-.7h-.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M89.7,124.1H267.9v-.7H89.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,124.1h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M268.6,124.1H435.5v-.7H268.6v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,124.1h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M436.2,124.1h167v-.7h-167v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,124.1h.8v-.7h-.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M604,124.1H771v-.7H604v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,124.1h.8v-.7H771v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M771.8,124.1H939v-.7H771.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M939,124.1h.7v-.7H939v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M939.7,124.1h167.1v-.7H939.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,124.1h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M88.9,159.3h.8V124.1h-.8v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,159.3h.7V124.1h-.7v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,159.3h.7V124.1h-.7v35.2Z" class="g1"/>
+<g clip-path="url(#c8)">
+<text x="140.1" y="173.8" dx="0,.1,0,.1,.1" class="s4">9:30 </text>
+<text x="171.3" y="173.8" class="s5">– </text>
+<text x="182.6" y="173.8" dx="0,.1,.1,0,-.1,-.1" class="s4">12:00 </text>
+<text x="149.6" y="191.4" dx="0,0,0,0,0,0,.2,-.1,0,.1" class="s4">Session 1 </text>
+</g>
+<path fill-rule="evenodd" d="M128.7,212.7h99.8V194.9H128.7v17.8Z" class="g2"/>
+<text clip-path="url(#c8)" x="128.7" y="209.4" dx="0,0,0,0,0,.1,0,-.1,0,.1,0,.1,0,0,.1,.1" class="s6">Introduction to </text>
+<path fill-rule="evenodd" d="M109.3,230.3H248.1V212.5H109.3v17.8Z" class="g2"/>
+<g clip-path="url(#c8)">
+<text x="109.3" y="227" dx="0,0,0,.1,0,0,0,0,0,.1,0,0,0,0,0,0,0,0,0,.1,0,0,0,.4" class="s6">Artificial Intelligence </text>
+<text x="126" y="242.9" dx="0,0,0,0,.1,0,0,-.1,.1,0,0,-.1,-.1,.1,-.1,0" class="s7">Dr.M.ManiKandan </text>
+<text x="135.7" y="258.7" dx="0,.2,-.2,.1,-.2,-.1,0,-.1,.1,0,0,0,0,0,.1" class="s7">Professor- ECE </text>
+<text x="126.4" y="274.5" dx="0,0,-.1,.1,0,-.1,0,0,0,.1,0,0,0,-.1,.1,0,0,0,.1,-.2" class="s7">Madras Institute of </text>
+<text x="119.4" y="290.2" dx="0,-.1,-.1,-.1,.1,.1,.1,0,.1,-.1,-.3,0,0,0,.1,-.1,.1,.1,-.1" class="s7">Technology, Chennai </text>
+</g>
+<g clip-path="url(#c9)">
+<text x="313.2" y="173.8" dx="0,.1,0,.1,.1" class="s4">9:30 </text>
+<text x="344.3" y="173.8" class="s5">– </text>
+<text x="355.7" y="173.8" dx="0,.1,.1,0,-.1,.1" class="s4">12:00 </text>
+<text x="322.9" y="191.4" dx="0,0,0,0,0,0,.2,-.1,0,.2" class="s4">Session 3 </text>
+</g>
+<path fill-rule="evenodd" d="M293.5,212.7H410.2V194.9H293.5v17.8Z" class="g2"/>
+<text clip-path="url(#c9)" x="293.5" y="209.4" dx="0,0,0,.1,0,0,0,0,0,0,.1,0,0,.1,0,0,.1,0,-.1" class="s6">Classification and </text>
+<path fill-rule="evenodd" d="M277.8,230.3H426.1V212.5H277.8v17.8Z" class="g2"/>
+<text clip-path="url(#c9)" x="277.8" y="227" dx="0,0,0,0,-.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,.1,0" class="s6">Clustering in Artificial </text>
+<path fill-rule="evenodd" d="M314.1,247.9h75.6V230.1H314.1v17.8Z" class="g2"/>
+<g clip-path="url(#c9)">
+<text x="314.1" y="244.6" dx="0,0,0,0,0,0,0,0,0,0,0,0,.3" class="s6">Intelligence </text>
+<text x="314.8" y="260.4" dx="0,0,0,0,.1,0,0,0,0,-.2,-.1,0,.2" class="s7">Dr.P.Nirmala </text>
+<text x="299" y="276.3" dx="0,-.2,.1,0,0,0,0,-.1,.1,0,.1,0,0,.1,-.2,-.1,0,-.1,.1,.1" class="s7">Assistant Professor </text>
+<text x="304" y="292.1" dx="0,0,0,0,-.1,.1,0,.1,-.2,0,-.2,0,-.1,.1,-.1,.2,0,0,0" class="s7">( Senior Grade ) , </text>
+<text x="292.6" y="307.9" dx="0,0,-.1,.1,.1,-.1,0,.1,.1,-.2,0,0,0,-.1,-.1,0,0,-.1,.1,0,0,-.1" class="s7">School of Electronics </text>
+<text x="294.1" y="323.7" dx="0,0,.1,-.1,0,.1,-.1,-.1,0,0,.1,-.1,0,-.1,.1,-.1,0,0,.1,0,-.1" class="s7">Engineering, Vellore </text>
+<text x="284" y="339.6" dx="0,0,.1,0,0,0,0,.1,0,0,-.2,.1,-.2,0,-.1,-.1,-.1,.1,.1,.1,0,.1,-.1,-.3,0,.2" class="s7">Institute of Technology , </text>
+<text x="328.9" y="355.4" dx="0,0,.1,-.1,.1,.1,-.1" class="s7">Chennai </text>
+</g>
+<g clip-path="url(#ca)">
+<text x="481" y="173.8" dx="0,.1,0,.1,.1" class="s4">9:30 </text>
+<text x="512.1" y="173.8" class="s5">– </text>
+<text x="523.5" y="173.8" dx="0,.1,.1,0,-.1,.1" class="s4">12:00 </text>
+<text x="490.7" y="191.4" dx="0,0,0,0,0,0,.2,-.1,0,.1" class="s4">Session 5 </text>
+</g>
+<path fill-rule="evenodd" d="M450.3,212.7H588.9V194.9H450.3v17.8Z" class="g2"/>
+<text clip-path="url(#ca)" x="450.3" y="209.4" dx="0,0,0,.1,0,0,0,0,0,.1,0,0,0,0,0,0,0,0,0,.1,0,0,0,0" class="s6">Artificial Intelligence </text>
+<path fill-rule="evenodd" d="M468.9,230.3H570.6V212.5H468.9v17.8Z" class="g2"/>
+<text clip-path="url(#ca)" x="468.9" y="227" dx="0,0,0,0,0,.1,0,0,0,0,0,0,0,.1,0,-.1" class="s6">in Robotics and </text>
+<path fill-rule="evenodd" d="M480.6,247.9h78.1V230.1H480.6v17.8Z" class="g2"/>
+<g clip-path="url(#ca)">
+<text x="480.6" y="244.6" dx="0,0,0,0,.3,-.4,.1,0,0,.1,.3" class="s6">Automation </text>
+<text x="462.8" y="260.4" dx="0,0,0,0,0,0,0,-.1,-.1,-.1,-.1,.1,0,.1,-.1,-.1,.2" class="s7">Mr.K.NaveenKumar </text>
+<text x="447.4" y="276.3" dx="0,0,.1,.1,-.1,0,0,-.1,0,0,0,.1,-.1,0,-.2,0,.2,-.2,0,-.1,.1,0,0,-.1,-.1,0" class="s7">Robotics and AI Architect </text>
+<text x="454.4" y="292.1" dx="0,.2,0,-.1,-.1,0,0,.1,.1,-.1,0,0,-.1,0,0,0,0,-.2,.1,-.1,.1,.1,-.1" class="s7">Prag Robotics , Chennai </text>
+</g>
+<g clip-path="url(#cb)">
+<text x="648.7" y="173.8" dx="0,.1,0,.1,.1" class="s4">9:30 </text>
+<text x="679.9" y="173.8" class="s5">– </text>
+<text x="691.3" y="173.8" dx="0,.1,.1,0,-.1,.1" class="s4">12:00 </text>
+<text x="658.5" y="191.4" dx="0,0,0,0,0,0,.2,-.1,0,.1" class="s4">Session 7 </text>
+</g>
+<path fill-rule="evenodd" d="M618.1,212.7H756.7V194.9H618.1v17.8Z" class="g2"/>
+<text clip-path="url(#cb)" x="618.1" y="209.4" dx="0,0,0,.1,0,0,0,0,0,.1,0,0,0,0,0,0,0,0,0,.1,0,0,0,0" class="s6">Artificial Intelligence </text>
+<path fill-rule="evenodd" d="M622.1,230.3H752.9V212.5H622.1v17.8Z" class="g2"/>
+<g clip-path="url(#cb)">
+<text x="622.1" y="227" dx="0,0,0,0,.1,-.2,.1,.1,0,.1,0,0,.1,0,0,0,0,0,0,.4" class="s6">in Image Processing </text>
+<text x="644.3" y="242.9" dx="0,0,0,0,.1,0,0,-.1,0,0,.1,-.2,-.1,.2" class="s7">Dr.S.RajKumar </text>
+<text x="639.9" y="258.7" dx="0,.2,-.2,.1,-.2,-.1,0,-.1,.1,0,-.1,0,0,-.1,-.1,.3" class="s7">Professor&amp; Head </text>
+<text x="617" y="274.5" dx="0,0,0,.1,-.2,-.1,.1,0,0,-.1,0,.1,0,.1,-.1,0,.1,-.1,-.1,0,0,.1,-.1,0,.2" class="s7">Biomedical Engineering , </text>
+<text x="617.7" y="290.2" dx="0,0,-.1,0,0,0,-.1,-.1,0,.2,-.2,0,.1,0,.1,-.1,0,.1,-.1,-.1,0,0,.1,-.1" class="s7">Rajalakshmi Engineering </text>
+<text x="637.9" y="306.2" dx="0,0,.1,0,0,-.1,-.1,-.1,0,0,0,0,.1,-.1,-.1,.1,-.1" class="s7">College , Chennai </text>
+</g>
+<g clip-path="url(#cc)">
+<text x="824.6" y="306.1" dx="0,.1,0,.1,.1" class="s4">9:30 </text>
+<text x="855.7" y="306.1" class="s5">– </text>
+<text x="867.1" y="306.1" dx="0,.1,0,.1,0" class="s4">1:00 </text>
+</g>
+<path fill-rule="evenodd" d="M811.2,327.3h96.4V309.5H811.2v17.8Z" class="g2"/>
+<g clip-path="url(#cc)">
+<text x="811.2" y="324" dx="0,0,0,-.1,.1,0,0,0,0,.1,0,0,.1,0,-.1,0,.3" class="s6">Industrial visit </text>
+<text x="790.3" y="340" dx="0,.2,0,-.1,-.1,0,0,-.1,.1,.1,-.1,0,0,-.1" class="s7">Prag Robotics </text>
+<text x="874.8" y="340" dx="0,0,0,0,.1,-.2,.1,.1,-.1" class="s7">- Chennai </text>
+</g>
+<g clip-path="url(#cd)">
+<text x="988.7" y="173.8" dx="0,.1,0,.1,.1" class="s4">9:30 </text>
+<text x="1019.9" y="173.8" class="s5">– </text>
+<text x="1031.2" y="173.8" dx="0,.1,.1,0,-.1,.1" class="s4">12:00 </text>
+<text x="994.4" y="191.4" dx="0,0,0,0,0,0,.2,-.1,0,.1,.1" class="s4">Session 10 </text>
+</g>
+<path fill-rule="evenodd" d="M957.5,212.7H1097V194.9H957.5v17.8Z" class="g2"/>
+<text clip-path="url(#cd)" x="957.5" y="209.4" dx="0,0,0,.1,0,0,.1,.2,-.4,0,.1,0,0,.2,0,0,0,0,.1,0,0,0" class="s6">Real time Scenario in </text>
+<path fill-rule="evenodd" d="M967.6,230.3H1087V212.5H967.6v17.8Z" class="g2"/>
+<g clip-path="url(#cd)">
+<text x="967.6" y="227" dx="0,0,0,0,0,0,0,0,0,0,.1,0,.1,0,0,0,0,.2" class="s6">AI With Data Sets </text>
+<text x="964.9" y="242.9" dx="0,0,0,0,.2,0,-.2,-.1,0,.1,0,-.1,-.2,0,0,.1,-.1,.1,0,.1" class="s7">Dr.Vimal SamSingh.R </text>
+<text x="972.9" y="258.7" dx="0,-.2,.1,0,0,-.1,0,0,0,-.1,0,.2,0,.1,-.2,-.1,0,-.1,.1,.1" class="s7">Associate Professor </text>
+<text x="984.1" y="274.5" dx="0,0,0,0,0,0,.1,0,0,-.1,-.1,-.1,0,.1,-.2" class="s7">SSN College of </text>
+<text x="992" y="290.2" dx="0,0,.1,-.1,0,.1,-.1,-.1,0,0,.1,-.1,-.1" class="s7">Engineering, </text>
+<text x="1002.6" y="306.2" dx="0,0,.1,-.1,.1,.1,-.1,.1" class="s7">Chennai. </text>
+</g>
+<path fill-rule="evenodd" d="M88.9,160.1h.8v-.8h-.8v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M89.7,160.1H267.9v-.8H89.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,160.1h.7v-.8h-.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M268.6,160.1H435.5v-.8H268.6v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,160.1h.7v-.8h-.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M436.2,160.1h167v-.8h-167v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,160.1h.8v-.8h-.8v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M604,160.1H771v-.8H604v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,160.1h.8v-.8H771v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M771.8,160.1H947.2v-.8H771.8v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M947.3,160.1h.7v-.8h-.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M948,160.1h158.8v-.8H948v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,160.1h.7v-.8h-.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M88.9,358.7h.8V160.1h-.8V358.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,358.7h.7V160.1h-.7V358.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,358.7h.7V160.1h-.7V358.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,358.7h.8V160.1h-.8V358.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,358.7h.8V160.1H771V358.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M947.3,358.7h.7V160.1h-.7V358.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,358.7h.7V160.1h-.7V358.7Z" class="g1"/>
+<g clip-path="url(#ce)">
+<text x="140.1" y="373.2" dx="0,.1,.1,0,.1,.1" class="s4">12:00 </text>
+<text x="178.8" y="373.2" class="s5">– </text>
+<text x="190.3" y="373.2" dx="0,.1,0,-.1,-.1" class="s4">1:00 </text>
+</g>
+<path fill-rule="evenodd" d="M156.2,394.4h44.9V376.6H156.2v17.8Z" class="g2"/>
+<text clip-path="url(#ce)" x="156.2" y="391.1" dx="0,0,0,.1,0,0,0,0" class="s6">Article </text>
+<path fill-rule="evenodd" d="M144.3,412h68.8V394.2H144.3V412Z" class="g2"/>
+<g clip-path="url(#ce)">
+<text x="144.3" y="408.7" dx="0,0,0,0,0,.2,0,0,0,.1,.2" class="s6">Discussion </text>
+<text x="140.1" y="424.7" dx="0,0,0,0,0,0,0,-.1,.1,-.1,0,0,0,.1,0" class="s7">Dr.J.Jebastine </text>
+<text x="115.9" y="440.4" dx="0,.2,-.2,.1,-.2,-.1,0,-.1,.1,0,-.1,0,0,-.1,-.1,.2,0,0,0,.1" class="s7">Professor&amp; Head-ECE </text>
+<text x="120.3" y="456.2" dx="0,0,-.1,.1,.1,0,0,-.1,0,0,0,.1,-.1,0,.1,-.1,-.1,0,0,.1,-.1" class="s7">Jeppiaar Engineering </text>
+<text x="157.3" y="472" dx="0,0,.1,0,0,-.1,-.1" class="s7">College </text>
+</g>
+<g clip-path="url(#cf)">
+<text x="313.3" y="373.2" dx="0,.1,.1,0,.1,.1" class="s4">12:00 </text>
+<text x="352" y="373.2" class="s5">– </text>
+<text x="363.6" y="373.2" dx="0,.1,0,-.1,0" class="s4">1:00 </text>
+</g>
+<path fill-rule="evenodd" d="M329.5,394.4h44.9V376.6H329.5v17.8Z" class="g2"/>
+<text clip-path="url(#cf)" x="329.5" y="391.1" dx="0,0,0,.1,0,0,0,0" class="s6">Article </text>
+<path fill-rule="evenodd" d="M317.6,412h68.8V394.2H317.6V412Z" class="g2"/>
+<g clip-path="url(#cf)">
+<text x="317.6" y="408.7" dx="0,0,0,0,0,.2,0,0,0,.1,.2" class="s6">Discussion </text>
+<text x="313.3" y="424.7" dx="0,0,0,0,0,0,0,-.1,.1,-.1,0,0,0,.1,0" class="s7">Dr.J.Jebastine </text>
+<text x="289.1" y="440.4" dx="0,.2,-.2,.1,-.2,-.1,0,-.1,.1,0,-.1,0,0,-.1,-.1,.2,0,0,0,.1" class="s7">Professor&amp; Head-ECE </text>
+<text x="293.5" y="456.2" dx="0,0,-.1,.1,.1,0,0,-.1,0,0,0,.1,-.1,0,.1,-.1,-.1,0,0,.1,-.1" class="s7">Jeppiaar Engineering </text>
+<text x="330.6" y="472" dx="0,0,.1,0,0,-.1,-.1,0" class="s7">College </text>
+</g>
+<g clip-path="url(#cg)">
+<text x="481.1" y="373.2" dx="0,.1,.1,0,.1,.1" class="s4">12:00 </text>
+<text x="519.8" y="373.2" class="s5">– </text>
+<text x="531.4" y="373.2" dx="0,.1,0,-.1,-.1" class="s4">1:00 </text>
+</g>
+<path fill-rule="evenodd" d="M497.3,394.4h44.9V376.6H497.3v17.8Z" class="g2"/>
+<text clip-path="url(#cg)" x="497.3" y="391.1" dx="0,0,0,.1,0,0,0,0" class="s6">Article </text>
+<path fill-rule="evenodd" d="M485.4,412h68.7V394.2H485.4V412Z" class="g2"/>
+<g clip-path="url(#cg)">
+<text x="485.4" y="408.7" dx="0,0,0,0,0,.2,0,0,0,.1,.2" class="s6">Discussion </text>
+<text x="483.7" y="424.7" dx="0,0,0,0,0,0,0,-.1,.1,-.1,0,0,0" class="s7">Mr.S.Ranjith </text>
+<text x="446.9" y="440.4" dx="0,-.2,.1,0,0,0,0,-.1,.1,0,.1,0,0,.1,-.2,-.1,0,-.1,.1,0" class="s7">Assistant Professor </text>
+<text x="556.1" y="440.4" class="s8">– </text>
+<text x="566.6" y="440.4" dx="0,0,0,-.1" class="s7">ECE </text>
+<text x="461.3" y="456.2" dx="0,0,-.1,.1,.1,0,0,-.1,0,0,0,.1,-.1,0,.1,-.1,-.1,0,0,.1,-.1" class="s7">Jeppiaar Engineering </text>
+<text x="498.4" y="472" dx="0,0,.1,0,0,-.1,-.1,0" class="s7">College </text>
+</g>
+<g clip-path="url(#ch)">
+<text x="648.9" y="373.2" dx="0,.1,.1,0,.1,.1" class="s4">12:00 </text>
+<text x="687.6" y="373.2" class="s5">– </text>
+<text x="699.2" y="373.2" dx="0,.1,0,-.1,-.1" class="s4">1:00 </text>
+</g>
+<path fill-rule="evenodd" d="M665.1,394.4H710V376.6H665.1v17.8Z" class="g2"/>
+<text clip-path="url(#ch)" x="665.1" y="391.1" dx="0,0,0,.1,0,0,0,0" class="s6">Article </text>
+<path fill-rule="evenodd" d="M653.1,412h68.8V394.2H653.1V412Z" class="g2"/>
+<g clip-path="url(#ch)">
+<text x="653.1" y="408.7" dx="0,0,0,0,0,.2,0,0,0,.1,.2" class="s6">Discussion </text>
+<text x="651.5" y="424.7" dx="0,0,0,0,0,0,0,-.1,.1,-.1,0,0,0" class="s7">Mr.S.Ranjith </text>
+<text x="614.6" y="440.4" dx="0,-.2,.1,0,0,0,0,-.1,.1,0,.1,0,0,.1,-.2,-.1,0,-.1,.1,0" class="s7">Assistant Professor </text>
+<text x="723.9" y="440.4" class="s8">– </text>
+<text x="734.4" y="440.4" dx="0,0,0,-.1" class="s7">ECE </text>
+<text x="629.1" y="456.2" dx="0,0,-.1,.1,.1,0,0,-.1,0,0,0,.1,-.1,0,.1,-.1,-.1,0,0,.1,-.1" class="s7">Jeppiaar Engineering </text>
+<text x="666.2" y="472" dx="0,0,.1,0,0,-.1,-.1,0" class="s7">College </text>
+</g>
+<g clip-path="url(#ci)">
+<text x="988.7" y="373.2" dx="0,.1,.1,0,.1,.1" class="s4">12:00 </text>
+<text x="1027.4" y="373.2" class="s5">– </text>
+<text x="1038.9" y="373.2" dx="0,.1,0,-.1" class="s4">1:00 </text>
+</g>
+<path fill-rule="evenodd" d="M966.9,394.4h121V376.6h-121v17.8Z" class="g2"/>
+<g clip-path="url(#ci)">
+<text x="966.9" y="391.1" dx="0,0,0,.1,0,0,0,.1,0,.1,0,.1,.1,.1,0,0,0,0" class="s6">Reflection Journal </text>
+<text x="988.7" y="407.1" dx="0,0,0,0,0,0,0,-.1,.1,-.1,0,0,0,.1,0" class="s7">Dr.J.Jebastine </text>
+<text x="964.5" y="422.8" dx="0,.2,-.2,.1,-.2,-.1,0,-.1,.1,0,-.1,0,0,-.1,-.1,.1,0,0,0,.1" class="s7">Professor&amp; Head-ECE </text>
+<text x="969.1" y="438.6" dx="0,0,-.1,.1,.1,0,0,-.1,0,0,0,.1,-.1,0,.1,-.1,-.1,0,0,.1,-.1" class="s7">Jeppiaar Engineering </text>
+<text x="1005.9" y="454.6" dx="0,0,.1,0,0,-.1,-.1,0" class="s7">College </text>
+</g>
+<path fill-rule="evenodd" d="M88.9,359.4h.8v-.7h-.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M89.7,359.4H267.9v-.7H89.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,359.4h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M268.6,359.4H435.5v-.7H268.6v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,359.4h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M436.2,359.4h167v-.7h-167v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,359.4h.8v-.7h-.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M604,359.4H771v-.7H604v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,359.4h.8v-.7H771v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M947.3,359.4h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M948,359.4h158.8v-.7H948v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,359.4h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M88.9,475.5h.8V359.4h-.8V475.5Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,475.5h.7V359.4h-.7V475.5Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,475.5h.7V359.4h-.7V475.5Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,475.5h.8V359.4h-.8V475.5Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,475.5h.8V359.4H771V475.5Z" class="g1"/>
+<path fill-rule="evenodd" d="M947.3,475.5h.7V359.4h-.7V475.5Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,475.5h.7V359.4h-.7V475.5Z" class="g1"/>
+<g clip-path="url(#cj)">
+<text x="143.8" y="490" dx="0,.1,0,.1,.1" class="s4">1:00 </text>
+<text x="174.9" y="490" class="s5">– </text>
+<text x="186.3" y="490" dx="0,.1,0,.1,-.1" class="s4">2:00 </text>
+<text x="159.2" y="507.6" dx="0,0,-.1,-.1,.2,.1" class="s4">Lunch </text>
+</g>
+<g clip-path="url(#ck)">
+<text x="317" y="490" dx="0,.1,0,.1,.1" class="s4">1:00 </text>
+<text x="348.2" y="490" class="s5">– </text>
+<text x="359.5" y="490" dx="0,.1,0,.1,0" class="s4">2:00 </text>
+<text x="332.4" y="507.6" dx="0,0,-.1,-.1,.2,.1" class="s4">Lunch </text>
+</g>
+<g clip-path="url(#cl)">
+<text x="484.8" y="490" dx="0,.1,0,.1,.1" class="s4">1:00 </text>
+<text x="516" y="490" class="s5">– </text>
+<text x="527.3" y="490" dx="0,.1,0,.1,-.1" class="s4">2:00 </text>
+<text x="500.2" y="507.6" dx="0,0,-.1,-.1,.2,.1" class="s4">Lunch </text>
+</g>
+<g clip-path="url(#cm)">
+<text x="652.6" y="490" dx="0,.1,0,.1,.1" class="s4">1:00 </text>
+<text x="683.8" y="490" class="s5">– </text>
+<text x="695.1" y="490" dx="0,.1,0,.1,-.1" class="s4">2:00 </text>
+<text x="668" y="507.6" dx="0,0,-.1,-.1,.2,.1" class="s4">Lunch </text>
+</g>
+<g clip-path="url(#cn)">
+<text x="824.6" y="490" dx="0,.1,0,.1,.1" class="s4">1:00 </text>
+<text x="855.7" y="490" class="s5">– </text>
+<text x="867.1" y="490" dx="0,.1,0,.1,0" class="s4">2:00 </text>
+<text x="840" y="507.6" dx="0,0,-.1,-.1,.2,.1" class="s4">Lunch </text>
+</g>
+<g clip-path="url(#co)">
+<text x="992.5" y="490" dx="0,.1,0,.1,.1" class="s4">1:00 </text>
+<text x="1023.7" y="490" class="s5">– </text>
+<text x="1035.1" y="490" dx="0,.1,0,.1,-.1" class="s4">2:00 </text>
+<text x="1007.8" y="507.6" dx="0,0,-.1,-.1,.2,.1" class="s4">Lunch </text>
+</g>
+<path fill-rule="evenodd" d="M88.9,476.2h.8v-.7h-.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M89.7,476.2H267.9v-.7H89.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,476.2h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M268.6,476.2H435.5v-.7H268.6v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,476.2h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M436.2,476.2h167v-.7h-167v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,476.2h.8v-.7h-.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M604,476.2H771v-.7H604v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,476.2h.8v-.7H771v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M771.8,476.2H947.2v-.7H771.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M947.3,476.2h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M948,476.2h158.8v-.7H948v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,476.2h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M88.9,511.4h.8V476.2h-.8v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,511.4h.7V476.2h-.7v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,511.4h.7V476.2h-.7v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,511.4h.8V476.2h-.8v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,511.4h.8V476.2H771v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M947.3,511.4h.7V476.2h-.7v35.2Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,511.4h.7V476.2h-.7v35.2Z" class="g1"/>
+<g clip-path="url(#cp)">
+<text x="143.8" y="525.9" dx="0,.1,0,.1,.1" class="s4">2:00 </text>
+<text x="174.9" y="525.9" class="s5">– </text>
+<text x="186.3" y="525.9" dx="0,.1,0,.1,-.1" class="s4">4:30 </text>
+<text x="149.6" y="543.5" dx="0,0,0,0,0,0,.2,-.1,0,.1" class="s4">Session 2 </text>
+</g>
+<path fill-rule="evenodd" d="M105.8,564.6H251.6V546.8H105.8v17.8Z" class="g2"/>
+<text clip-path="url(#cp)" x="105.8" y="561.3" dx="0,0,0,0,.1,0,0,0,.1,0,0,0,.1,0,0,0,0,.1,0,0,0,0,0,.1,0" class="s6">Vital Role of Artificial </text>
+<path fill-rule="evenodd" d="M140.8,582.2h75.6V564.4H140.8v17.8Z" class="g2"/>
+<g clip-path="url(#cp)">
+<text x="140.8" y="578.9" dx="0,0,0,0,0,0,0,0,0,0,0,0,.3" class="s6">Intelligence </text>
+<text x="141.9" y="594.8" dx="0,0,0,0,.1,0,0,-.1,-.2,.1,0,.1" class="s7">Dr.S.Ramesh </text>
+<text x="126" y="610.6" dx="0,.2,-.2,.1,-.2,-.1,0,-.1,.1,0,0,-.1,0,0,-.1,-.1,.1,0,0" class="s7">Professor &amp; Head , </text>
+<text x="138.8" y="626.4" dx="0,0,-.1,.1,-.1,0,0,0,-.1,.1,0,.1,.1,-.2" class="s7">Department of </text>
+<text x="103.6" y="642.3" dx="0,0,.1,-.2,.1,.1,0,0,0,0,.1,.1,-.1,0,.1,-.2,.1,0,0,0,0,0,-.1,-.1,.1,-.1,-.1" class="s7">Computational Intelligence </text>
+<text x="125.6" y="658.1" dx="0,0,-.1,-.1,-.1,-.1,0,.1,-.1,0,0,-.1,.1,.1,.1,0,-.1,.1,-.2" class="s7">Saveetha School of </text>
+<text x="145.1" y="673.9" dx="0,0,.1,-.1,0,.1,-.1,-.1,0,0,.1" class="s7">Engineering </text>
+</g>
+<g clip-path="url(#cq)">
+<text x="317" y="525.9" dx="0,.1,0,.1,.1" class="s4">2:00 </text>
+<text x="348.2" y="525.9" class="s5">– </text>
+<text x="359.5" y="525.9" dx="0,.1,0,.1,0" class="s4">4:30 </text>
+<text x="322.9" y="543.5" dx="0,0,0,0,0,0,.2,-.1,0,.2" class="s4">Session 4 </text>
+</g>
+<path fill-rule="evenodd" d="M297,564.6H406.9V546.8H297v17.8Z" class="g2"/>
+<text clip-path="url(#cq)" x="297" y="561.3" dx="0,0,0,0,0,-.1,0,.1,0,0,.3,.1,-.2,0,0,0" class="s6">Decision Making </text>
+<path fill-rule="evenodd" d="M277,582.2H426.9V564.4H277v17.8Z" class="g2"/>
+<g clip-path="url(#cq)">
+<text x="277" y="578.9" dx="0,-.1,0,.1,0,0,-.1,0,0,0,.3,0,.1,0,0,0,0,0,0,0,0,.1" class="s6">Training Method in AI </text>
+<text x="308.8" y="594.8" dx="0,0,0,0,0,-.1,.2,-.1,.1,-.1,.1,0,-.1,0,.1" class="s7">Dr.C.Ponnuraja </text>
+<text x="279.6" y="610.6" dx="0,0,-.1,0,0,.1,0,0,0,0,0,0,.1,0,0,0,0,-.2,0,0,0,0,0,0,-.1" class="s7">Scientist C, NIRT, ICMR, </text>
+<text x="328.9" y="626.4" dx="0,0,.1,-.1,.1,.1,-.1" class="s7">Chennai </text>
+</g>
+<g clip-path="url(#cr)">
+<text x="484.8" y="525.9" dx="0,.1,0,.1,.1" class="s4">2:00 </text>
+<text x="516" y="525.9" class="s5">– </text>
+<text x="527.3" y="525.9" dx="0,.1,0,.1,-.1" class="s4">4:30 </text>
+<text x="490.7" y="543.5" dx="0,0,0,0,0,0,.2,-.1,0,.1" class="s4">Session 6 </text>
+</g>
+<path fill-rule="evenodd" d="M460.1,564.6H579.4V546.8H460.1v17.8Z" class="g2"/>
+<text clip-path="url(#cr)" x="460.1" y="561.3" dx="0,0,.1,0,0,0,.1,0,0,0,0,0,0,0,0,.1,0" class="s6">Natural Language </text>
+<path fill-rule="evenodd" d="M471.1,582.2h97.1V564.4H471.1v17.8Z" class="g2"/>
+<text clip-path="url(#cr)" x="471.1" y="578.9" dx="0,0,0,.1,0,0,0,0,0,0,0,0,0,.1,0" class="s6">Processing For </text>
+<path fill-rule="evenodd" d="M491.2,599.8h56.9V582H491.2v17.8Z" class="g2"/>
+<g clip-path="url(#cr)">
+<text x="491.2" y="596.5" dx="0,0,.1,0,0,0,0,0,0" class="s6">Robotics </text>
+<text x="469" y="612.4" dx="0,0,0,0,0,0,-.2,0,.1,.1,0,-.2,.1,-.2,-.1,.3" class="s7">Mr.S.Arun Kumar </text>
+<text x="460.4" y="628.2" dx="0,0,0,0,0,.1,0,0,.1,-.1,0,-.1,0,0,-.1,0,-.1,-.1,0,-.1,.1" class="s7">Sr.Business Research </text>
+<text x="496" y="644" dx="0,0,-.1,0,0,.1,0,0,0,-.2" class="s7">Scientist </text>
+<text x="496.4" y="659.9" dx="0,0,-.1,-.1,-.1,.1" class="s7">Amazon </text>
+</g>
+<g clip-path="url(#cs)">
+<text x="652.6" y="525.9" dx="0,.1,0,.1,.1" class="s4">2:00 </text>
+<text x="683.8" y="525.9" class="s5">– </text>
+<text x="695.1" y="525.9" dx="0,.1,0,.1,-.1" class="s4">4:30 </text>
+<text x="658.5" y="543.5" dx="0,0,0,0,0,0,.2,-.1,0,.1" class="s4">Session 8 </text>
+</g>
+<path fill-rule="evenodd" d="M639,564.6h97V546.8H639v17.8Z" class="g2"/>
+<text clip-path="url(#cs)" x="639" y="561.3" dx="0,0,0,0,0,0,0,0,.1,0,0,0,0,0" class="s6">Deep Learning </text>
+<path fill-rule="evenodd" d="M627.3,582.2H747.7V564.4H627.3v17.8Z" class="g2"/>
+<g clip-path="url(#cs)">
+<text x="627.3" y="578.9" dx="0,0,0,0,0,0,0,0,0,.1,0,0,0,.1,0,0,0,0,.3" class="s6">Architecture in AI </text>
+<text x="616.3" y="594.8" dx="0,0,0,0,0,-.2,.1,-.1,-.2,-.1,.2,-.1,.2,-.2,-.1,.1,0,0,.1,0,0,0" class="s7">Mr. Thamaraimanian MK </text>
+<text x="634.8" y="610.6" dx="0,0,-.1,0,0,.2,-.2,0,-.1,.1,0,0,-.1,-.1,0,.1,0,-.1,0,0" class="s7">Data Architecture / </text>
+<text x="614.8" y="626.4" dx="0,0,.1,0,.1,-.1,0,-.1,0,0,0,-.1,0,-.1,0,.1,-.1,0,0,0,.2,0,.1,0,0,-.1,-.1" class="s7">Corporate Trainer , Inspac </text>
+<text x="629.5" y="642.3" dx="0,0,.1,0,-.1,0,0,-.1,.1,0,0,0,.1,-.1,-.1,0,0,-.1,.1,0,0" class="s7">Solution (Cognizant) </text>
+<text x="664.5" y="658.1" dx="0,0,.1,-.1,.1,.1,-.1" class="s7">Chennai </text>
+</g>
+<g clip-path="url(#ct)">
+<text x="824.6" y="525.9" dx="0,.1,0,.1,.1" class="s4">2:00 </text>
+<text x="855.7" y="525.9" class="s5">– </text>
+<text x="867.1" y="525.9" dx="0,.1,0,.1,0" class="s4">4:30 </text>
+<text x="830.4" y="543.5" dx="0,0,0,0,0,0,.2,-.1,0,.2" class="s4">Session 9 </text>
+</g>
+<path fill-rule="evenodd" d="M784.8,564.6H934V546.8H784.8v17.8Z" class="g2"/>
+<text clip-path="url(#ct)" x="784.8" y="561.3" dx="0,-.1,0,0,0,.1,.1,-.2,0,0,.1,0,0,.1,0,0,0,.2,.1,0,0,0,.2,-.2,0" class="s6">Life Skills such as time </text>
+<path fill-rule="evenodd" d="M783.1,582.2H935.9V564.4H783.1v17.8Z" class="g2"/>
+<g clip-path="url(#ct)">
+<text x="783.1" y="578.9" dx="0,.1,0,-.1,0,0,0,0,0,0,0,.2,-.2,.3,0,0,.1,.2,-.4,.2,0,.2" class="s6">and stress management </text>
+<text x="782.2" y="594.8" dx="0,0,0,0,0,.1,0,0,-.1,.1,-.2,-.1,.1,0,.1,-.2,.1,0,.1,-.3,-.1,0,0,.1,.3" class="s7">Mrs.M.Kanmani Thivya Jas </text>
+<text x="791.2" y="610.6" dx="0,0,.1,.1,.1,0,-.1,0,-.1,.1,-.1,-.1,.2,0,-.3,-.1,.1,.1,0,.1,-.1,0,0,0" class="s7">Counseling Psychologist </text>
+<text x="784.8" y="626.4" dx="0,-.1,.1,-.2,0,0,.1,0,0,-.1,-.1,0,0,.1,.1,-.1,0,.1,-.1,.1,-.1,-.1,-.1,-.1,0,.2" class="s7">cum Motivational Speaker, </text>
+</g>
+<path fill-rule="evenodd" d="M859.9,645.6h4.3V629.5h-4.3v16.1Z" class="g2"/>
+<g clip-path="url(#ct)">
+<text x="791.9" y="642.3" dx="0,-.2,0,0,0,-.1,0,0,0,.1,0,.1" class="s7">Arise, Shine </text>
+<text x="864.2" y="642.3" dx="0,0,.1,-.1,.1,0,-.1,0,0,.1,-.1" class="s7">Counseling </text>
+<text x="838.9" y="658.1" dx="0,0,-.1,0,-.1,0,0,.1" class="s7">Service </text>
+<text x="814.8" y="673.9" dx="0,-.2,0,0,.1,.1,0,.1,-.1,.1,-.1,.1,-.1" class="s7">TN-08-0060108 </text>
+</g>
+<g clip-path="url(#cu)">
+<text x="992.4" y="580.5" dx="0,.1,0,.1,.1" class="s4">2:00 </text>
+<text x="1023.5" y="580.5" class="s5">– </text>
+<text x="1034.9" y="580.5" dx="0,.1,0,.1,.1" class="s4">4:00 </text>
+</g>
+<path fill-rule="evenodd" d="M965,604.7h37.4V584H965v20.7Z" class="g2"/>
+<path fill-rule="evenodd" d="M1010.5,604.7h79V584h-79v20.7Z" class="g2"/>
+<g clip-path="url(#cu)">
+<text x="965" y="600.2" dx="0,.3,0" class="s6">MCQ</text>
+<text x="1002.4" y="600.2" class="s9">, </text>
+<text x="1010.5" y="600.2" dx="0,0,0,0,0,-.1,.1,0,-.2,0,0" class="s6">Feedback &amp; </text>
+</g>
+<path fill-rule="evenodd" d="M987.8,622.3h79V604.6h-79v17.7Z" class="g2"/>
+<text clip-path="url(#cu)" x="987.8" y="619" dx="0,0,0,0,0,0,.1,0,.1,0,.1,0" class="s6">Interactions </text>
+<path fill-rule="evenodd" d="M88.9,512.2h.8v-.8h-.8v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M89.7,512.2H267.9v-.8H89.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,512.2h.7v-.8h-.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M268.6,512.2H435.5v-.8H268.6v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,512.2h.7v-.8h-.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M436.2,512.2h167v-.8h-167v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,512.2h.8v-.8h-.8v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M604,512.2H771v-.8H604v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,512.2h.8v-.8H771v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M771.8,512.2H947.2v-.8H771.8v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M947.3,512.2h.7v-.8h-.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M948,512.2h158.8v-.8H948v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,512.2h.7v-.8h-.7v.8Z" class="g1"/>
+<path fill-rule="evenodd" d="M88.9,677.2h.8v-165h-.8v165Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,677.2h.7v-165h-.7v165Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,677.2h.7v-165h-.7v165Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,677.2h.8v-165h-.8v165Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,677.2h.8v-165H771v165Z" class="g1"/>
+<path fill-rule="evenodd" d="M947.3,677.2h.7v-165h-.7v165Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,677.2h.7v-165h-.7v165Z" class="g1"/>
+<g clip-path="url(#cv)">
+<text x="143.8" y="691.9" dx="0,.1,0,.1,.1" class="s4">4:30 </text>
+<text x="174.9" y="691.9" class="s5">– </text>
+<text x="186.3" y="691.9" dx="0,.1,0,.1,-.1" class="s4">5:30 </text>
+</g>
+<path fill-rule="evenodd" d="M149.5,713h58.4V695.2H149.5V713Z" class="g2"/>
+<text clip-path="url(#cv)" x="149.5" y="709.7" dx="0,0,0,.1,0,.1,0,0,.1,-.1" class="s6">Practical </text>
+<path fill-rule="evenodd" d="M135,730.6h87.4V712.8H135v17.8Z" class="g2"/>
+<g clip-path="url(#cv)">
+<text x="135" y="727.3" dx="0,0,0,0,-.1,0,.1,.1,0,.2,-.1,.1,0,.1" class="s6">sessions/Labs </text>
+<text x="141.9" y="743.2" dx="0,0,0,0,.1,0,0,-.1,-.2,.1,0,.1" class="s7">Dr.S.Ramesh </text>
+<text x="126" y="759" dx="0,.2,-.2,.1,-.2,-.1,0,-.1,.1,0,0,-.1,0,0,-.1,-.1,.1,0,0" class="s7">Professor &amp; Head , </text>
+<text x="138.8" y="774.9" dx="0,0,-.1,.1,-.1,0,0,0,-.1,.1,0,.1,.1,-.2" class="s7">Department of </text>
+<text x="103.6" y="790.7" dx="0,0,.1,-.2,.1,.1,0,0,0,0,.1,.1,-.1,0,.1,-.2,.1,0,0,0,0,0,-.1,-.1,.1,-.1,-.1" class="s7">Computational Intelligence </text>
+<text x="125.6" y="806.4" dx="0,0,-.1,-.1,-.1,-.1,0,.1,-.1,0,0,-.1,.1,.1,.1,0,-.1,.1,-.2" class="s7">Saveetha School of </text>
+<text x="145.1" y="822.2" dx="0,0,.1,-.1,0,.1,-.1,-.1,0,0,.1" class="s7">Engineering </text>
+</g>
+<g clip-path="url(#cw)">
+<text x="317" y="691.9" dx="0,.1,0,.1,.1" class="s4">4:30 </text>
+<text x="348.2" y="691.9" class="s5">– </text>
+<text x="359.5" y="691.9" dx="0,.1,0,.1,0" class="s4">5:30 </text>
+</g>
+<path fill-rule="evenodd" d="M322.7,713h58.5V695.2H322.7V713Z" class="g2"/>
+<text clip-path="url(#cw)" x="322.7" y="709.7" dx="0,0,0,.1,0,.1,0,0,.1,-.1" class="s6">Practical </text>
+<path fill-rule="evenodd" d="M308.2,730.6h87.5V712.8H308.2v17.8Z" class="g2"/>
+<g clip-path="url(#cw)">
+<text x="308.2" y="727.3" dx="0,0,0,0,-.1,0,.1,.1,0,.2,-.1,.1,0,.2" class="s6">sessions/Labs </text>
+<text x="295" y="743.2" dx="0,0,0,0,0,0,0,-.1,-.1,-.1,-.1,.1,0,.1,-.1,-.1,.3" class="s7">Mr.K.NaveenKumar </text>
+<text x="279.6" y="759" dx="0,0,.1,.1,-.1,0,0,-.1,0,0,0,.1,-.1,0,-.2,0,.2,-.2,0,-.1,.1,0,0,-.1,-.1,0" class="s7">Robotics and AI Architect </text>
+<text x="286.6" y="774.9" dx="0,.2,0,-.1,-.1,0,0,.1,.1,-.1,0,0,-.1,0,0,0,0,-.2,.1,-.1,.1,.1,-.1" class="s7">Prag Robotics , Chennai </text>
+</g>
+<g clip-path="url(#cx)">
+<text x="484.8" y="691.9" dx="0,.1,0,.1,.1" class="s4">4:30 </text>
+<text x="516" y="691.9" class="s5">– </text>
+<text x="527.3" y="691.9" dx="0,.1,0,.1,-.1" class="s4">5:30 </text>
+</g>
+<path fill-rule="evenodd" d="M490.5,713H549V695.2H490.5V713Z" class="g2"/>
+<text clip-path="url(#cx)" x="490.5" y="709.7" dx="0,0,0,.1,0,.1,0,0,.1,-.1" class="s6">Practical </text>
+<path fill-rule="evenodd" d="M476,730.6h87.5V712.8H476v17.8Z" class="g2"/>
+<g clip-path="url(#cx)">
+<text x="476" y="727.3" dx="0,0,0,0,-.1,0,.1,.1,0,.2,-.1,.1,0,.2" class="s6">sessions/Labs </text>
+<text x="469" y="743.2" dx="0,0,0,0,0,0,-.2,0,.1,.2,0,-.2,.1,-.2,-.1,.2" class="s7">Mr.S.Arun Kumar </text>
+<text x="460.4" y="759" dx="0,0,0,0,0,.1,0,0,.1,-.1,0,-.1,0,0,-.1,0,-.1,-.1,0,-.1,.1" class="s7">Sr.Business Research </text>
+<text x="496" y="774.9" dx="0,0,-.1,0,0,.1,0,0,0,-.2" class="s7">Scientist </text>
+<text x="496.4" y="790.7" dx="0,0,-.1,-.1,-.1,.1" class="s7">Amazon </text>
+</g>
+<g clip-path="url(#cy)">
+<text x="652.6" y="691.9" dx="0,.1,0,.1,.1" class="s4">4:30 </text>
+<text x="683.8" y="691.9" class="s5">– </text>
+<text x="695.1" y="691.9" dx="0,.1,0,.1,-.1" class="s4">5:30 </text>
+</g>
+<path fill-rule="evenodd" d="M658.3,713h58.5V695.2H658.3V713Z" class="g2"/>
+<text clip-path="url(#cy)" x="658.3" y="709.7" dx="0,0,0,.1,0,.1,0,0,.1,-.1" class="s6">Practical </text>
+<path fill-rule="evenodd" d="M643.8,730.6h87.4V712.8H643.8v17.8Z" class="g2"/>
+<g clip-path="url(#cy)">
+<text x="643.8" y="727.3" dx="0,0,0,0,-.1,0,.1,.1,0,.2,-.1,.1,0,.2" class="s6">sessions/Labs </text>
+<text x="616.3" y="743.2" dx="0,0,0,0,0,-.2,.1,-.1,-.2,-.1,.2,-.1,.2,-.2,-.1,.1,0,0,.1,0,0,0" class="s7">Mr. Thamaraimanian MK </text>
+<text x="634.8" y="759" dx="0,0,-.1,0,0,.2,-.2,0,-.1,.1,0,0,-.1,-.1,0,.1,0,-.1,0,0" class="s7">Data Architecture / </text>
+<text x="614.8" y="774.9" dx="0,0,.1,0,.1,-.1,0,-.1,0,0,0,-.1,0,-.1,0,.1,-.1,0,0,0,.2,0,.1,0,0,-.1,-.1" class="s7">Corporate Trainer , Inspac </text>
+<text x="629.5" y="790.7" dx="0,0,.1,0,-.1,0,0,-.1,.1,0,0,0,.1,-.1,-.1,0,0,-.1,.1,0,0" class="s7">Solution (Cognizant) </text>
+<text x="664.5" y="806.4" dx="0,0,.1,-.1,.1,.1,-.1" class="s7">Chennai </text>
+</g>
+<g clip-path="url(#cz)">
+<text x="824.6" y="691.9" dx="0,.1,0,.1,.1" class="s4">4:30 </text>
+<text x="855.7" y="691.9" class="s5">– </text>
+<text x="867.1" y="691.9" dx="0,.1,0,.1,0" class="s4">5:30 </text>
+</g>
+<path fill-rule="evenodd" d="M830.2,713h58.6V695.2H830.2V713Z" class="g2"/>
+<text clip-path="url(#cz)" x="830.2" y="709.7" dx="0,0,0,.1,0,.1,0,0,.1,-.1" class="s6">Practical </text>
+<path fill-rule="evenodd" d="M815.8,730.6h87.4V712.8H815.8v17.8Z" class="g2"/>
+<g clip-path="url(#cz)">
+<text x="815.8" y="727.3" dx="0,0,0,0,-.1,0,.1,.1,0,.2,-.1,.1,0,.2" class="s6">sessions/Labs </text>
+<text x="802.6" y="743.2" dx="0,0,0,0,0,0,0,-.1,-.1,-.1,-.1,.1,0,.1,-.1,-.1,.3" class="s7">Mr.K.NaveenKumar </text>
+<text x="783.7" y="759" dx="0,0,.1,.1,-.1,0,0,-.1,0,0,0,.1,-.1,0,-.2,0,.3,-.2,0,-.1,.1,0,0,-.1,-.1,0,.1,.1" class="s7">Robotics and AI Architect , </text>
+<text x="794.1" y="774.9" dx="0,.2,0,-.1,-.1,0,0,.1,.1,-.1,0,0,-.1,0,0,0,0,-.2,.1,-.1,.1,.1,-.1" class="s7">Prag Robotics , Chennai </text>
+</g>
+<g clip-path="url(#c10)">
+<text x="994.4" y="691.9" dx="0,.1,0,.1,.1" class="s4">4:00 </text>
+<text x="1025.4" y="691.9" class="s5">– </text>
+<text x="1036.9" y="691.9" dx="0,.1,0,-.1,.1" class="s4">5:00 </text>
+</g>
+<path fill-rule="evenodd" d="M963.4,713h127.8V695.2H963.4V713Z" class="g2"/>
+<text clip-path="url(#c10)" x="963.4" y="709.7" dx="0,0,.1,0,0,0,0,0,0,.1,0,.1,0,0,0,0,0,0,.1" class="s6">Valedictory Session </text>
+<path fill-rule="evenodd" d="M88.9,677.9h.8v-.7h-.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M89.7,677.9H267.9v-.7H89.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,677.9h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M268.6,677.9H435.5v-.7H268.6v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,677.9h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M436.2,677.9h167v-.7h-167v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,677.9h.8v-.7h-.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M604,677.9H771v-.7H604v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,677.9h.8v-.7H771v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M771.8,677.9H947.2v-.7H771.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M947.3,677.9h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M948,677.9h158.8v-.7H948v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,677.9h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M88.9,825.7h.8V677.9h-.8V825.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M88.9,826.4h.8v-.7h-.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M88.9,826.4h.8v-.7h-.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M89.7,826.4H267.9v-.7H89.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,825.7h.7V677.9h-.7V825.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M267.9,826.4h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M268.6,826.4H435.5v-.7H268.6v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,825.7h.7V677.9h-.7V825.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M435.5,826.4h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M436.2,826.4h167v-.7h-167v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,825.7h.8V677.9h-.8V825.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M603.2,826.4h.8v-.7h-.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M604,826.4H771v-.7H604v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,825.7h.8V677.9H771V825.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M771,826.4h.8v-.7H771v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M771.8,826.4H947.2v-.7H771.8v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M947.3,825.7h.7V677.9h-.7V825.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M947.3,826.4h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M948,826.4h158.8v-.7H948v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,825.7h.7V677.9h-.7V825.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,826.4h.7v-.7h-.7v.7Z" class="g1"/>
+<path fill-rule="evenodd" d="M1106.8,826.4h.7v-.7h-.7v.7Z" class="g1"/>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_6q;
+	src: url("fonts/Calibri_6q.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesNewRoman-Bold_6m;
+	src: url("fonts/TimesNewRoman-Bold_6m.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesNewRoman_6s;
+	src: url("fonts/TimesNewRoman_6s.woff") format("woff");
+}
+
+@font-face {
+	font-family: sub_TimesNewRoman-Bold_lfb;
+	src: url("fonts/sub_TimesNewRoman-Bold_lfb.woff") format("woff");
+}
+
+@font-face {
+	font-family: sub_TimesNewRoman_lfr;
+	src: url("fonts/sub_TimesNewRoman_lfr.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

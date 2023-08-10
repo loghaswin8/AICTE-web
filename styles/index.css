@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #f0ee9b;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 50px 0;
+    background-color: #f0ee9b;
+    font-weight: bold;
+}
+
+section h2 {
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn:hover {
+    background-color: #fff;
+    color: #333;
+}
+
+.course {
+    margin-bottom: 30px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.logo1,
+.logo2 {
+    width: 150px;
+    height: 100px;
+}
+
+.section-headings {
+    background-color: #c42a44;
+    color: white;
+    padding: 6px;
+}
+
+.resourse-table {
+    border: solid;
+}
+
+.session-tb {
+    max-width: 100%;
+    height: auto;
+}
